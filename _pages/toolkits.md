@@ -1,5 +1,5 @@
 ---
-title: Voor partners
+title: Toolkits
 layout: default
 bodyClass: page-services-list
 permalink: /toolkits
@@ -9,9 +9,9 @@ permalink: /toolkits
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1>Wat kunnen wij betekenen voor jou werking?</h1>
+        <h1>Aim of the Toolkits</h1>
         <p>
-          Dit project draagt zich natuurlijk niet alleen, en daarom hebben wij jou nodig! Ben je een middenvelds organisatie? Kom je in contact met jongvolwassenen tussen de 16 en de 35 die tot een kansengroep behoren? Heb je jongeren in de werking die geschikt zouden kunnen zijn voor deze opleiding? Stuur ze dan zeker door! 
+          The project team will develop three toolkits for educators and organize three bootcamps to introduce young girls to a broad range of STEM subjects, in particular robotics, programming, electronics. A mentoring programme will be also implemented to provide further support after the mobilities, specifically to assist girls who want to deepen some topics, improve their competences or undertake STEM related studies. 
         </p>
       </div>
     </div>
