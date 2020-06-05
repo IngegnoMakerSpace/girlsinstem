@@ -51,6 +51,23 @@
       width: 40%;
     }
   }
+  ul {
+    width: 80%;
+    font-size: 1.1rem;
+    font-weight: lighter;
+    line-height: 1.4;
+    color: $secondary;
+    background-color: #ffffff88;
+    @include media-breakpoint-up(sm) {
+      width: 70%;
+    }
+    @include media-breakpoint-up(md) {
+      width: 60%;
+    }
+    @include media-breakpoint-up(lg) {
+      width: 40%;
+    }
+  }
 }
 .intro-small {
   padding-top: 100px;
