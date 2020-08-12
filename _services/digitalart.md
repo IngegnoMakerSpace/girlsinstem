@@ -11,7 +11,7 @@ Would you like to participate in our bootcamps?
 
 We are looking for young girls (between 14 and 25 years of age) interested in STEM and motivated to participate in an amazing interchange experience. This is a great chance to explore new topics, realize which are your interests and get support to achieve your potentials.
 
-### Wearables Bootcamp
+### Digital Art Bootcamp
 
 There will be a bootcamp dedicated to this toolkit in Gent, Belgium, from 29/10/2021 to 02/11/2021, which can be attended by young girls from Belgium, France, Poland and Spain.
 

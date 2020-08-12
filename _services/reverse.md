@@ -3,8 +3,9 @@ title: 'Reverse engineering toolkit'
 image: '/services/default.png'
 ---
 
+Disassemble, Sketch, Recap!  
+Learn what it takes to be an engineer and dive heads-on into reverse engineering. Our _**Highway to Creativity in Reverse**_ toolkit provides instructions on how to get acquainted with this field, basic theoretical background, ideas for fun and easy exercises and step by step instructions for 3 projects about manufacturing, electronics and programming.
 
-This toolkit will provide a step by step tutorial on reverse engineering to educators. It will include exercises to understand what reverse engineering is and activities about manufacturing, electronics and programming.
 
 ### Want to participate?
 
