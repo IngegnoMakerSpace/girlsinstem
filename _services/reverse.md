@@ -15,7 +15,7 @@ We are looking for young girls (between 14 and 25 years of age) interested in ST
 
 ### Reverse Engineering Bootcamp
 
-There will be a bootcamp dedicated to this toolkit in Valencia, Spain, from 28/06/2021 to 03/07/2021, which can be attended by young girls from Belgium, France, Poland and Spain.
+There will be a bootcamp dedicated to this toolkit in Valladolid, Spain, from 28/06/2021 to 03/07/2021, which can be attended by young girls from Belgium, France, Poland and Spain.
 
 **Date:** 28/06/2021 to 03/07/2021  
 **Locatie:** Valancia  
