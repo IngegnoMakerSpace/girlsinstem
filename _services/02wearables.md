@@ -1,10 +1,11 @@
 ---
-title: 'Wearable technology and electronic textiles toolkit'
+title: '2021-07-12 Wearable technology and electronic textiles BootCamp'
 image: '/services/default.png'
+shortcontent: The wearable toolkit provides the necessary equipment to run e-textiles workshops around topics such as sportswear, fashion, making toys and espionage. At the same time it will raise young people’s awareness about environmental issues related to textiles and technological waste.
 ---
 
 
-This toolkit will provide the necessary equipment to run e-textiles workshops around topics such as sportswear, fashion, making toys and espionage. At the same time it will raise young people’s awareness about environmental issues related to textiles and technological waste.
+This wearable toolkit provides the necessary equipment to run e-textiles workshops around topics such as sportswear, fashion, making toys and espionage. At the same time it raises young people’s awareness about environmental issues related to textiles and technological waste.
 
 ### Want to participate?
 

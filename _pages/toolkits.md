@@ -1,5 +1,5 @@
 ---
-title: Toolkits
+title: BootCamps and Toolkits
 layout: default
 bodyClass: page-services-list
 permalink: /toolkits
@@ -27,7 +27,7 @@ permalink: /toolkits
           <h2 class="service-title">
             <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
           </h2>
-          {{ service.content | markdownify | strip_html | truncate: 100 }}
+          {{ service.shortcontent | markdownify | strip_html | truncate: 100 }}
         </div>
       </div>
     </div>

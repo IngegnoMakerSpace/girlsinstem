@@ -1,9 +1,10 @@
 ---
-title: 'Digital art toolkit'
+title: '2021-10-29 Digital Art BootCamp'
 image: '/services/default.png'
+shortcontent: The digital art toolkit focuses on robotic arts and digital sound/music making. It provides guidelines to combine coding with visual arts and to produce sounds via programmable boards coupled with sensors and actuators.
 ---
 
-This toolkit will focus on robotic arts and digital sound/music making. It will provide guidelines to combine coding with visual arts and to produce sounds via programmable boards coupled with sensors and actuators.
+The digital art toolkit focuses on robotic arts and digital sound/music making. It provides guidelines to combine coding with visual arts and to produce sounds via programmable boards coupled with sensors and actuators.
 
 ### Want to participate?
 
